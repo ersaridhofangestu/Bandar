@@ -9,16 +9,16 @@ Untuk menggunakan aplikasi ini, Anda dapat meng-clone repository melalui Git den
 
 **Untuk Python versi biasa:**
 ```bash
-git clone <URL_REPOSITORI_ANDA>
-cd <nama_folder_project>
-python <nama_file_python_anda>.py
+git clone https://github.com/ersaridhofangestu/Bandar.git
+cd Bandar
+python main.py
 ```
 
 **Untuk Python 3:**
 ```bash
-git clone <URL_REPOSITORI_ANDA>
-cd <nama_folder_project>
-python3 <nama_file_python_anda>.py
+git clone https://github.com/ersaridhofangestu/Bandar.git
+cd Bandar
+python3 main.py
 ```
 
 ### Install Dependencies
@@ -61,4 +61,4 @@ Jika Anda ingin berkontribusi pada pengembangan aplikasi ini, silakan fork repos
 ## Kontak Saya
 Jika ingin berdiskusi lebih lanjut atau mengikuti perkembangan saya, Anda dapat menghubungi saya di sosial media berikut:
 
-- **GitHub:** [github.com/ersaridho](https://github.com/ersaridho)
+- **GitHub:** [github.com/ersaridho](https://github.com/ersaridhofangestu)
